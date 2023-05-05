@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_tanyoknits_interactive_patterns=self.webpackChunk_tanyoknits_interactive_patterns||[]).push([[560],{1560:function(e,n,t){t.r(n),t.d(n,{overview:function(){return a},patternInfo:function(){return o}});var i=t(3053),r=t(7953),o={pageInfo:i.CV,sizes:r.sizes},a=["This vest is worked top down as in following parts in order.","Top/Down, Front/Back, Right/Left are based on the viewpoint of wearing a vest","Parts in circle are done in the round, those in square are done flat."]}}]);
+//# sourceMappingURL=560.b78eefa5.chunk.js.map
