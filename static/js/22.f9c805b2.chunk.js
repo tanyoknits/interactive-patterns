@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_tanyoknits_interactive_patterns=self.webpackChunk_tanyoknits_interactive_patterns||[]).push([[22],{1022:function(t,n,e){e.r(n),e.d(n,{patternInfo:function(){return i}});var s=e(8250),a=e(9433),i={pageInfo:s.CV,sizes:a.sizes}}}]);
+//# sourceMappingURL=22.f9c805b2.chunk.js.map
