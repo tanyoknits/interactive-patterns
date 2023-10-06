@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_tanyoknits_interactive_patterns=self.webpackChunk_tanyoknits_interactive_patterns||[]).push([[869],{869:function(e,i,n){n.r(i),n.d(i,{patternInfo:function(){return t}});var t={pageInfo:[{id:"overview",label:"Overview",isLinear:!0},{id:"yoke",label:"Yoke",isLinear:!0},{id:"body",label:"Body",isLinear:!0},{id:"sleeve",label:"Sleeve",isLinear:!0},{id:"button-band",label:"Button band"}],sizes:n(7796).sizes}}}]);
+//# sourceMappingURL=869.f95e59cb.chunk.js.map
